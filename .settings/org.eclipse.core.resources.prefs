@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/server/Clock.java=UTF-8
+encoding//src/server/ClockService.java=UTF-8
+encoding//src/server/ClockServiceLocator.java=UTF-8
+encoding//src/server/ClockSoapBindingStub.java=UTF-8
